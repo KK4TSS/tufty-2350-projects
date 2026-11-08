@@ -1,4 +1,4 @@
-#Tufty 2350 Projects
+# Tufty 2350 Projects
 A home for my projects, experiments, artwork, and setup notes for the Pimoroni Tufty 2350.
 
 I’m keeping these projects together so they’re easy to find, follow, and build on. Expect small apps, playful ideas, and useful things for the badge.
